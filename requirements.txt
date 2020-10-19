@@ -1,0 +1,9 @@
+requests
+loguru
+sqlalchemy
+Flask
+pandas
+pytest
+pytest-cov
+names
+gunicorn; sys_platform == 'linux'

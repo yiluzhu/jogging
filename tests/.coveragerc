@@ -1,0 +1,5 @@
+[run]
+omit = */tests/run_all_tests.py
+       */tests/manual_tests.py
+       */tests/utils.py
+       */venv/*
