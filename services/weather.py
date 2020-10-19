@@ -6,7 +6,7 @@ from loguru import logger
 class WeatherAPI:
     """Request weather data from open weather: api.openweathermap.org"""
 
-    APPID = 'b86266236bb07a46e1b69e5f581039a0'
+    APPID = ''
     URL = 'http://api.openweathermap.org/data/2.5/onecall/timemachine'
 
     def http_get(self, params):
