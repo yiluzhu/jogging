@@ -23,8 +23,6 @@ Some important features are:
 
   * All user and admin actions can be performed via the API, including authentication.
 
-All the code can be found in: https://git.toptal.com/screening/yilu-zhu
-
 
 Prerequisite
 ------------
